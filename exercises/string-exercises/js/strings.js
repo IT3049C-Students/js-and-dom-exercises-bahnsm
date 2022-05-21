@@ -31,6 +31,5 @@ class StringFunctions {
    */
   split(input) {
     return input.split(" ");
-    //return [input];
   }
 }
